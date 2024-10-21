@@ -19,10 +19,24 @@ During my internship, I was responsible for developing and refactoring backend s
 
 ### Technologies & Tools 🛠️
 
-- **Backend:** Python, Django, NestJS, Prisma
-- **Frontend:** React, JavaScript, TypeScript
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Infrastructure:** Docker
+- **Backend:**  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) 
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs) 
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+
+- **Frontend:**  
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+
+- **Databases:**  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+
+- **Infrastructure:**  
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ### Let's Connect? 📫
 
@@ -32,9 +46,6 @@ During my internship, I was responsible for developing and refactoring backend s
 ---
 
 Thanks for visiting my profile! 😄
-
-# 🐍 Snake eating my contributions
-![Snake animation](https://github.com/hectorsalg/hectorsalg/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **hectorsalg/hectorsalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
