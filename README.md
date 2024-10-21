@@ -15,13 +15,13 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Durant
 Durante meu estágio, fui responsável por desenvolver e refatorar sistemas backend, utilizando diferentes stacks tecnológicas para atender às necessidades do projeto.
 
 - **Versão 1:** Construção do backend com **Python, Django e PostgreSQL**.
-- **Versão 2:** Refatoração completa do projeto, utilizando **TypeScript, NestJS e Prisma**.
+- **Versão 2:** Refatoração completa do projeto, utilizando **TypeScript, NestJS, Prisma e PostgreSQL**.
 
 ### Tecnologias & Ferramentas 🛠️
 
 - **Backend:** Python, Django, NestJS, Prisma
 - **Frontend:** React, JavaScript, TypeScript
-- **Banco de Dados:** PostgreSQL
+- **Banco de Dados:** PostgreSQL, MySQL,SQLite
 - **Infraestrutura:** Docker
 
 ### Vamos Conectar? 📫
