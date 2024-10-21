@@ -31,7 +31,7 @@ During my internship, I was responsible for developing and refactoring backend s
 
 ### Let's Connect? 📫
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hectorsalg)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hectorsalg)
 
 ---
 
