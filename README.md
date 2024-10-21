@@ -1,37 +1,37 @@
-# 👋 Olá, eu sou Hector Salgueiros!
+# 👋 Hello, I'm Hector Salgueiros!
 
-**Graduando em Sistemas de Informação | 7º Período**
+**Information Systems Undergraduate at UFPI | 7th Semester**
 
 ---
 
-### Sobre Mim 🚀
+### About Me 🚀
 
-Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Durante minha jornada acadêmica no curso de Sistemas de Informação, tive a oportunidade de explorar diversas áreas da tecnologia, com um foco especial no desenvolvimento web e na criação de soluções inovadoras e eficientes.
+I am a student passionate about technology and software development. During my academic journey in Information Systems, I have had the opportunity to explore various areas of technology, with a special focus on web development and creating innovative and efficient solutions.
 
-### Experiência Profissional 💻
+### Professional Experience 💻
 
-💼 **Estagiário de Desenvolvimento Backend**  
+💼 **Backend Development Intern**  
 📍 *Fábrica de Gênios - Startup*  
-Durante meu estágio, fui responsável por desenvolver e refatorar sistemas backend, utilizando diferentes stacks tecnológicas para atender às necessidades do projeto.
+During my internship, I was responsible for developing and refactoring backend systems, using different technology stacks to meet the project's needs.
 
-- **Versão 1:** Construção do backend com **Python, Django e PostgreSQL**.
-- **Versão 2:** Refatoração completa do projeto, utilizando **TypeScript, NestJS, Prisma e PostgreSQL**.
+- **Version 1:** Built the backend with **Python, Django, and PostgreSQL**.
+- **Version 2:** Completely refactored the project, using **TypeScript, NestJS, Prisma, and PostgreSQL**.
 
-### Tecnologias & Ferramentas 🛠️
+### Technologies & Tools 🛠️
 
 - **Backend:** Python, Django, NestJS, Prisma
 - **Frontend:** React, JavaScript, TypeScript
-- **Banco de Dados:** PostgreSQL, MySQL,SQLite
-- **Infraestrutura:** Docker
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Infrastructure:** Docker
 
-### Vamos Conectar? 📫
+### Let's Connect? 📫
 
 - **GitHub:** [Hector Salgueiros](https://github.com/hectorsalg)
 - **LinkedIn:** [Hector Salgueiros](https://linkedin.com/in/hectorsalg)
 
 ---
 
-Obrigado pela visita ao meu perfil! 😄
+Thanks for visiting my profile! 😄
 
 <!--
 **hectorsalg/hectorsalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
