@@ -33,6 +33,8 @@ During my internship, I was responsible for developing and refactoring backend s
 
 Thanks for visiting my profile! 😄
 
+![Snake animation](https://github.com/hectorsalg/hectorsalg/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **hectorsalg/hectorsalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
