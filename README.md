@@ -33,6 +33,7 @@ During my internship, I was responsible for developing and refactoring backend s
 
 Thanks for visiting my profile! 😄
 
+# 🐍 Snake eating my contributions
 ![Snake animation](https://github.com/hectorsalg/hectorsalg/blob/output/github-contribution-grid-snake.svg)
 
 <!--
