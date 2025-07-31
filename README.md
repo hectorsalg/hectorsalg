@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hector Salgueiros!
 
-**Information Systems Undergraduate at UFPI | 7th Semester**
+**Information Systems Undergraduate at UFPI | Final Semester**
 
 ---
 
