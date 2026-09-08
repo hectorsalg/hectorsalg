@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Hector Salgueiros!
 
-**Front-End Engineer | Information Systems Graduate (UFPI)**
+**Junior Developer | Information Systems Graduate (UFPI)**
 
 ---
 
 ## About Me
 
-Front-End Engineer in training at **EBAC – British School of Creative Arts and Technology**, with a **Bachelor’s degree in Information Systems from UFPI**.  
+Front-End Engineer at **EBAC – British School of Creative Arts and Technology**, with a **Bachelor’s degree in Information Systems from UFPI**.  
 I have a strong background in **Front-End development**, solid experience with **Angular, React, and TypeScript**, and professional experience in **Back-End and Full Stack development**.
 
 I work with the transformation of **UX/UI prototypes into accessible, responsive, and high-performance web applications**, applying best practices in componentization, SEO, performance, and modern web architectures.
@@ -104,9 +104,9 @@ Here you can find a curated selection of my work. To see them all in detail, vis
 
 ## Languages
 
-- **Portuquese:** Native 
-- **English:** Intermediate  
-- **Spanish:** Technical
+- **Portuquese:** C2 
+- **English:** B2 
+- **Spanish:** A1
 
 ---
 
